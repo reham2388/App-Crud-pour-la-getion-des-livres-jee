@@ -44,7 +44,7 @@ User: admin/mdp: admin123
 ## ⚙️ Installation et Configuration
 
 1. **Base de données** :
-   - Importer le fichier `schema.sql` dans votre serveur MySQL.
+   - Importer le fichier `schema.sql` dans votre serveur MySQL (via phpmyadmin).
    - Vérifier les identifiants dans `com.example.demo2.util.DatabaseConnection`.
   
 
