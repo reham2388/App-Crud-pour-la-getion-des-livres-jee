@@ -37,7 +37,7 @@ Le projet utilise trois tables principales :
 
 ## Pour le login: soit admin ou visiteur voici les user/mots de passe 
 User: admin/mdp: admin123
-User: visiteur/mdp: visiteur123 
+/n User: visiteur/mdp: visiteur123 
 
 
 
